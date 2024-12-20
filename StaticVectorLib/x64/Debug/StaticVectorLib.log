@@ -1,2 +1,5 @@
-﻿  vectorlib.cpp
+﻿  pch.cpp
+  StaticVectorLib.cpp
+  vectorlib.cpp
+  Создание кода...
   StaticVectorLib.vcxproj -> C:\Users\Павел\source\repos\StaticVectorLib\x64\Debug\StaticVectorLib.lib
